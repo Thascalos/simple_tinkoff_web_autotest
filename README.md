@@ -1,0 +1,1 @@
+# simple_tinkoff_web_autotest
